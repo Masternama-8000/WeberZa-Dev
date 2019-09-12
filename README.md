@@ -1,2 +1,2 @@
 # WeberZa-Dev
-For developer
+For HTML website developer
